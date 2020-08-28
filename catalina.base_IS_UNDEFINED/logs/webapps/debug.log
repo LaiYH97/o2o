@@ -1,0 +1,12 @@
+2020-08-03 15:53:12.974 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current relativeAddr is:upload\images\item\shop\1\2020080315531217960.jpg
+2020-08-03 15:53:12.980 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current complete addr is:D:\Javaproject\images\upload\images\item\shop\1\2020080315531217960.jpg
+2020-08-03 15:53:13.190 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current relativeAddr is:upload\images\item\shop\1\2020080315531336833.jpg
+2020-08-03 15:53:13.191 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current complete addr is:D:\Javaproject\images\upload\images\item\shop\1\2020080315531336833.jpg
+2020-08-03 15:53:13.256 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current relativeAddr is:upload\images\item\shop\1\2020080315531334617.jpg
+2020-08-03 15:53:13.256 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current complete addr is:D:\Javaproject\images\upload\images\item\shop\1\2020080315531334617.jpg
+2020-08-03 15:54:28.318 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current relativeAddr is:upload\images\item\shop\1\2020080315542829329.jpg
+2020-08-03 15:54:28.320 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current complete addr is:D:\Javaproject\images\upload\images\item\shop\1\2020080315542829329.jpg
+2020-08-03 15:54:28.517 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current relativeAddr is:upload\images\item\shop\1\2020080315542838528.jpg
+2020-08-03 15:54:28.518 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current complete addr is:D:\Javaproject\images\upload\images\item\shop\1\2020080315542838528.jpg
+2020-08-03 15:54:28.588 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current relativeAddr is:upload\images\item\shop\1\2020080315542895507.jpg
+2020-08-03 15:54:28.588 [main] DEBUG com.imooc.o2o.unit.ImageUtil -current complete addr is:D:\Javaproject\images\upload\images\item\shop\1\2020080315542895507.jpg
